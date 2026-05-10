@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/expenses';
+const API_URL = '/expenses';
 
 const form = document.getElementById('expenseForm');
 const expensesList = document.getElementById('expensesList');
